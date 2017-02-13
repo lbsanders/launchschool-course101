@@ -17,4 +17,4 @@ def digit_list(number)
   digit_string.map! { |d| d.to_i }
 end
 
-p digit_list(94501)
+p digit_list(9171967)
